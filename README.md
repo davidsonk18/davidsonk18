@@ -44,7 +44,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=davidsonk18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas Generales" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsonk18&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de Contribuciones" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsonk18&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Racha de Contribuciones" />
       </td>
     </tr>
   </table>
